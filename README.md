@@ -1,4 +1,3 @@
-```markdown
 # Loan Outcome Prediction Using Machine Learning
 
 ## Table of Contents
